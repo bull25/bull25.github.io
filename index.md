@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang=en>
-<head>
+
     <title>Logo Vote!</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-</head>
+
 
 <body>
 <script src="vote.js"></script>
