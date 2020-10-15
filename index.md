@@ -14,7 +14,7 @@
           data-default-text="Vote This Dish Up!"
           data-alt-text="Thanks for Voting">
     <span class="icon"></span> 
-    <span class="text">Vote This Dish Up!</span>
+    <span class="text">Vote For This!</span>
   </button>
 </form>
 </body>
