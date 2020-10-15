@@ -1,21 +1,10 @@
 <html>
 <html lang=en>
 <head>
-    <title>Logo Vote!</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Hi!</title>
     </head>
 
 <body>
-<script src="vote.js"></script>
-<form class="myform">
-  <p class="vote-count">3</p>
-  <button
-          class="vote-btn" 
-          data-default-text="Vote For This!"
-          data-alt-text="Thanks for Voting">
-    <span class="icon"></span> 
-    <span class="text">Vote For This!</span>
-  </button>
-</form>
+
 </body>
 </html>
